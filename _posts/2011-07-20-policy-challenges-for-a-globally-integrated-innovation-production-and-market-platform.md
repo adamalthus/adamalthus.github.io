@@ -1,0 +1,59 @@
+---
+id: 332
+title: 'Policy Challenges for A&nbsp;Globally Integrated Innovation, Production and Market Platform'
+date: 2011-07-20T14:10:51+00:00
+author: JM
+layout: post
+guid: http://www.adamalthus.com/?p=332
+permalink: /blog/2011/07/20/policy-challenges-for-a-globally-integrated-innovation-production-and-market-platform/
+aktt_notify_twitter:
+  - no
+categories:
+  - Cloud
+  - Economics
+  - Policy
+  - Political Economy
+  - Strategy
+tags:
+  - TPN
+  - Transatlantic Policy Network
+---
+&laquo;Cloud computing&raquo; is&nbsp;much more than simply a&nbsp;new set of&nbsp;technologies and business models. It&nbsp;is&nbsp;rapidly emerging as&nbsp;the platform that will underpin the next generation of&nbsp;digital products and services. Cloud Computing is&nbsp;transforming how consumers, companies, and governments store information, how they process and exchange that information, and how they utilize computing power. Consequently, it&nbsp;opens a&nbsp;new set of&nbsp;policy discussions while at&nbsp;the same time underlining the importance of&nbsp;old debates.
+
+<!--more-->
+
+Discussions of&nbsp;policy in&nbsp;an&nbsp;era of&nbsp;&laquo;cloud computing&raquo; will continue the debate about classic questions: the terms of&nbsp;market access for services and the rules for privacy, security, IP&nbsp;and more. However, the Cloud must be&nbsp;understood as&nbsp;at&nbsp;once a&nbsp;competitive service, <a href="http://www.springerlink.com/content/0102m443m6522v1u/" target="_blank">a&nbsp;dynamic enhanced utility</a>, an&nbsp;ICT infrastructure/platform and innovation eco-system, a&nbsp;marketplace, and a&nbsp;production environment. The pervasive, disruptive multi-role character of&nbsp;&laquo;cloud computing&raquo; demands that a&nbsp;new array of&nbsp;vital questions be&nbsp;opened.
+
+First, though, what exactly is&nbsp;Cloud Computing? Firms are marketing a&nbsp;wide variety of&nbsp;services as&nbsp;&laquo;Cloud Solutions," leading&nbsp;&mdash; often deliberately&nbsp;&mdash; to&nbsp;some confusion. If&nbsp;broadly used to&nbsp;include all online services, the term loses meaning and risks obfuscating the critical policy issues at&nbsp;play.
+
+Put simply, Cloud Computing delivers computing resources&nbsp;&mdash; data storage, computation and networking&nbsp;&mdash; to&nbsp;users at&nbsp;the time, to&nbsp;the location and in&nbsp;the quantity they wish to&nbsp;consume, with costs based only on&nbsp;the resources used. In&nbsp;its simplest form &laquo;Cloud&raquo; transforms computing resources from a&nbsp;capital expense to&nbsp;an&nbsp;operational expense. Users simply procure from providers the &laquo;amount of&nbsp;computing&raquo; they want without needing to&nbsp;invest in&nbsp;their own computing infrastructure.
+
+Cloud Computing depends on&nbsp;the ability to&nbsp;abstract applications and software platforms from the underlying physical hardware and computing resources on&nbsp;which they depend. As&nbsp;an&nbsp;example a&nbsp;company storing customer data in&nbsp;Amazon&rsquo;s Elastic Cloud Service never needs to&nbsp;know&nbsp;&mdash; and is&nbsp;never informed about&nbsp;&mdash; which physical server or&nbsp;servers the data is&nbsp;stored. This &laquo;Virtualization&raquo; enables greater flexibility in&nbsp;how workloads are managed, and how datacenters are constructed, since providers can _dynamically_ add, remove or&nbsp;modify hardware resources without having to&nbsp;reconfigure the services that depend on&nbsp;them. The use of&nbsp;&laquo;Virtualization&raquo; is&nbsp;not new in&nbsp;the technology industry&nbsp;&mdash; having originated in&nbsp;the 1960s&nbsp;&mdash; but when combined with very sophisticated systems management software today&rsquo;s &laquo;Cloud Fabric&raquo; environments enable truly global scale computing environments.
+
+Cloud Computing changes the location of&nbsp;data processing or&nbsp;&mdash; more correctly&nbsp;&mdash; makes the location of&nbsp;data processing irrelevant&nbsp;&mdash; technically if&nbsp;not in&nbsp;policy terms. In&nbsp;traditional models of&nbsp;computing, data and applications are local&nbsp;&mdash; usually running on&nbsp;a&nbsp;personal computer (PC) for consumers and in&nbsp;private data centers for firms. The location of&nbsp;data storage and application execution is&nbsp;pre-determined by&nbsp;the design of&nbsp;the system. With the Cloud model applications can be&nbsp;run&nbsp;&mdash; and data stored&nbsp;&mdash; anywhere within the global cloud environment&nbsp;&mdash; which may encompass many data centers in&nbsp;multiple physical locations. The execution and storage locations are no-longer pre-determined by&nbsp;design but are now automated real-time decisions based on&nbsp;the availability of&nbsp;computing resources at&nbsp;any particular time.
+
+The competitiveness of&nbsp;Cloud Computing service provision critically depends on&nbsp;providers' ability to&nbsp;build out capacity at&nbsp;a&nbsp;scale far greater than any individual user or&nbsp;firm could afford and to&nbsp;fully automate the allocation of&nbsp;these computing resources. Aggregate demand can then be&nbsp;amortized over this highly scalable&nbsp;&mdash; and automated&nbsp;&mdash; infrastructure and sold back to&nbsp;the user at&nbsp;a&nbsp;much lower&nbsp;&mdash; per unit resource&nbsp;&mdash; cost than users could provide themselves.
+
+Cloud Computing is, in&nbsp;our view, <a href="http://www.springerlink.com/content/0102m443m6522v1u/" target="_blank">an&nbsp;&laquo;enhanced-dynamic&raquo; utility</a>, having some characteristics of&nbsp;infrastructure and some of&nbsp;competitive service. Cloud computing is&nbsp;frequently referred to&nbsp;as a&nbsp;&laquo;utility&raquo; service, sharing many of&nbsp;the characteristics of&nbsp;other utilities such as&nbsp;contractual levels of&nbsp;availability, reliability, and consumption-based pricing. It&nbsp;is&nbsp;also ‘utility-like' in&nbsp;the sense that Cloud providers are large companies operating at&nbsp;a&nbsp;significant scale, serving small users as&nbsp;well as&nbsp;giant corporations. Yet, Cloud Computing does differ from traditional utilities in&nbsp;several critical respects. Cloud providers compete aggressively with differentiated service offerings, service levels and technologies. Cloud services can be&nbsp;completely customized to&nbsp;the needs of&nbsp;the largest commercial users. Consequently, we&nbsp;have often referred to&nbsp;Cloud Computing as&nbsp;an&nbsp;&laquo;enhanced utility&raquo;.
+
+But Cloud computing is&nbsp;much more than just an&nbsp;&laquo;enhanced utility&raquo;. It&nbsp;is a&nbsp;utility that can be&nbsp;configured and customized depending on&nbsp;user needs. In&nbsp;a&nbsp;very real sense Cloud computing is&nbsp;&mdash; in&nbsp;our terminology&nbsp;&mdash; a _dynamic utility._
+
+Cloud Computing is&nbsp;much more than simply a&nbsp;new set of&nbsp;technologies and business models. It&nbsp;is&nbsp;rapidly emerging as&nbsp;the platform that will underpin the next generation of&nbsp;digital products and services. Cloud Computing is&nbsp;transforming how consumers, companies, and governments store information, how they process and exchange that information, and how they utilize computing power.
+
+Cloud Computing is&nbsp;also rapidly becoming a&nbsp;major source of&nbsp;product, service and business process innovation and&nbsp;&mdash; importantly&nbsp;&mdash; is&nbsp;unique in&nbsp;being both the production environment _and_ market platform for these innovations. It&nbsp;is&nbsp;this combination of&nbsp;roles&nbsp;&mdash; Innovation ecosystem, production environment and market place&nbsp;&mdash; combined with the transnational nature of&nbsp;the platform itself that makes the Cloud Computing historically unique. This uniqueness poses significant challenges for pre-existing approaches to&nbsp;policy in&nbsp;a&nbsp;number of&nbsp;important areas.
+
+For advanced industrial countries, Cloud Computing provides new opportunities for innovation and entrepreneurship, and promises substantial efficiency gains. The Cloud platform also opens significant new global market opportunities for developed economy producers and technology suppliers. For developing countries, Cloud services also open up&nbsp;new possibilities to&nbsp;enter international markets and find niches in&nbsp;global value networks but Cloud also creates a&nbsp;number of&nbsp;very substantial challenges.
+
+As&nbsp;with the previous computing platforms&nbsp;&mdash; mainframes, PCs, and networks of&nbsp;PCs&nbsp;&mdash; Cloud computing is&nbsp;becoming a&nbsp;baseline for national and corporate&nbsp;IT infrastructure against which other forms of&nbsp;infrastructure and service delivery must be&nbsp;measured. In&nbsp;this respect it&nbsp;is&nbsp;likely that Cloud Computing will become an&nbsp;important component of&nbsp;national critical infrastructure. Control of&nbsp;Cloud infrastructure will matter to&nbsp;national governments.
+
+Cloud Computing offers unprecedented new levels of&nbsp;configurability for diverse groups of&nbsp;users. Services are _dynamically configured_ to&nbsp;the needs of&nbsp;each user with a&nbsp;single unified, usually global-scaled, architecture. Cloud providers' scale and cost merits are available to&nbsp;all types of&nbsp;users, from individuals to&nbsp;multinational corporations. The tradeoff between the economic advantages of&nbsp;global scale infrastructure and the desire for governments to&nbsp;have policy influence over this critical market place, innovation and production environment will tax policy makers and historic approaches to&nbsp;global market regulation.
+
+Critical to&nbsp;Cloud Computing is&nbsp;the abstraction of&nbsp;end-user applications from the underlying hardware. Put simply, application software is&nbsp;not tied to&nbsp;any particular server or&nbsp;physical hardware; instead, it&nbsp;can utilize the massive scalability and resiliency of&nbsp;the underlying global-scale datacenters to&nbsp;deliver the same services to&nbsp;one user or&nbsp;several million users. In&nbsp;general, users do&nbsp;not know or&nbsp;care about where the datacenters are or&nbsp;how they are configured. Policy makers will&nbsp;&mdash; however&nbsp;&mdash; care about where value is&nbsp;created and extracted in&nbsp;this global network.
+
+The emergence of&nbsp;the Cloud Platform&nbsp;&mdash; which is&nbsp;at&nbsp;once Innovation Ecosystem, Production environment and Marketplace&nbsp;&mdash; will drive a&nbsp;convergence of&nbsp;policy making from each of&nbsp;these&nbsp;&mdash; previously distinct&nbsp;&mdash; domains. Prior policy norms focusing on&nbsp;free trade and open access to&nbsp;global markets will not be&nbsp;able to&nbsp;ignore the fact that national governments will care greatly about control over the innovation and production benefits of&nbsp;the Cloud Computing platform in&nbsp;addition to&nbsp;dependency issues for Cloud enabled critical infrastructure.
+
+Resolving the tension between the economies that are home to&nbsp;the major global cloud providers and their desire to&nbsp;be&nbsp;free to&nbsp;sell Cloud Services around the world and the&nbsp;&mdash; justified&nbsp;&mdash; concerns of&nbsp;other economies to&nbsp;retain control over this important driver of&nbsp;economic growth will require significant creativity on&nbsp;the part of&nbsp;the global policy making community.
+
+* * *
+
+This article was originally prepared as&nbsp;a&nbsp;briefing paper for The Transatlantic Policy Network&rsquo;s (TPN) Transatlantic Week 2011 Conference in&nbsp;Washington&nbsp;DC and was written jointly with John Zysman&nbsp;&mdash; Professor of&nbsp;Political Science, University of&nbsp;California Berkeley, and Co-Director, Berkeley Roundtable on&nbsp;the International Economy.
