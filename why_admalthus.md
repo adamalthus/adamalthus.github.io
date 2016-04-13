@@ -1,3 +1,9 @@
+---
+title: Why Adamalthus
+date: 04/11/2016
+author: JM
+layout: page
+---
 Adamalthus is the concatenation of the first name of 'Adam' Smith and the Last name of Thomas Robert 'Malthus' two of the most influential thinkers of their time whose ideas still resonate nearly three centuries later.
 
 You can read their extensive biographies here for <a title="Adam Smith" href="http://en.wikipedia.org/wiki/Adam_smith" target="_blank">Smith</a> and here for <a title="Thomas Malthus" href="http://en.wikipedia.org/wiki/Thomas_Robert_Malthus" target="_blank">Malthus</a>.
