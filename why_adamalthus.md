@@ -4,23 +4,17 @@ date: 04/11/2016
 author: JM
 layout: page
 ---
-Adamalthus is the concatenation of the first name of 'Adam' Smith and the Last name of Thomas Robert 'Malthus' two of the most influential thinkers of their time whose ideas still resonate nearly three centuries later.
-
-You can read their extensive biographies [here](http://en.wikipedia.org/wiki/Adam_smith) for Adam Smith and [here](http://en.wikipedia.org/wiki/Thomas_Robert_Malthus) for Thomas Malthus.
+Adamalthus is the concatenation of the first name of 'Adam' Smith and the Last name of Thomas Robert 'Malthus' two of the most influential thinkers of their time whose ideas still resonate nearly three centuries later. You can read their extensive biographies [here](http://en.wikipedia.org/wiki/Adam_smith) for Adam Smith and [here](http://en.wikipedia.org/wiki/Thomas_Robert_Malthus) for Thomas Malthus.
 
 Smith is recognized as the father of modern economics and specifically one of the first theorists in political economy. He outlined two central propositions in his book [*An Inquiry into the Nature and Causes of the Wealth of Nations*](http://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 
 The first of these propositions is the 'Pin Factory' a device Adam's uses to explain that increasing specialization and division of labor leads to ever greater economies of scale which are ultimately limited by the "Extent of the market."
 
-Smith's second proposition was the 'Invisible hand' which is more abstract but can be understood as the self correcting nature of markets where the actions of 'Self interested' individuals trading in a free market lead to a perfect equilibrium between prices and the amount of goods produced.
-
-With these ideas Smith laid the foundations for modern market economics.
+Smith's second proposition was the 'Invisible hand' which is more abstract but can be understood as the self correcting nature of markets where the actions of 'Self interested' individuals trading in a free market lead to a perfect equilibrium between prices and the amount of goods produced. With these ideas Smith laid the foundations for modern market economics.
 
 In his excellent book [*Knowledge and the Wealth of Nations*](http://www.amazon.com/gp/product/0393329887?ie=UTF8&amp;tag=technologypol-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0393329887) David Warsh points out that Smith's two central ideas are essentially in conflict. Increasing improvements in efficiency and economies of scale in the 'Pin Factory' would tend to lead to the formation of monopolistic positions for first movers. Yet self interest and competition inherent in the 'Invisible hand' will tend to keep prices at the lowest possible level and will prevent any manufacturer from achieving an advantage in the market. The 'Invisible hand' will tend to limit the supply of goods to perfectly match the demand for those goods. As Warsh eloquently explains it would take nearly three centuries for economists to understand how that conflict is resolved in the real world.
 
-The Revd. Thomas Robert Malthus was ten years old when Smith published <em>The Wealth of Nations.</em> He became a highly influential scholar in the fields of economics, science and social issues.
-
-He is most influential for his writing and ideas on population growth and is recognized as one of the first demographers. Where Smith saw a society benefiting from economic growth driven by specialization and free markets, Malthus had a contrary view.
+The Revd. Thomas Robert Malthus was ten years old when Smith published <em>The Wealth of Nations.</em> He became a highly influential scholar in the fields of economics, science and social issues. He is most influential for his writing and ideas on population growth and is recognized as one of the first demographers. Where Smith saw a society benefiting from economic growth driven by specialization and free markets, Malthus had a contrary view.
 
 In his book [*An Essay on the Principle of Population*](http://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population) Malthus predicted that the power of population growth would outstrip the ability of agriculture to provide enough food for the expanding population. This simple, but highly influential idea has been expanded over time into the broader concept of a [*Malthusian Catastrophe*](http://en.wikipedia.org/wiki/Malthusian_catastrophe) where economic or natural resource limits are seen as placing an ultimate boundary on the growth of the human population.
 
