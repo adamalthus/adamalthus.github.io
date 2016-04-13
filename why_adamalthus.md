@@ -8,7 +8,7 @@ Adamalthus is the concatenation of the first name of 'Adam' Smith and the Last n
 
 You can read their extensive biographies [here](http://en.wikipedia.org/wiki/Adam_smith) for Adam Smith and [here](http://en.wikipedia.org/wiki/Thomas_Robert_Malthus) for Thomas Malthus.
 
-Smith is recognized as the father of modern economics and specifically one of the first theorists in political economy. He outlined two central propositions [The Wealth of Nations](http://en.wikipedia.org/wiki/The_Wealth_of_Nations) *An Inquiry into the Nature and Causes of the Wealth of Nations*
+Smith is recognized as the father of modern economics and specifically one of the first theorists in political economy. He outlined two central propositions in his book [*An Inquiry into the Nature and Causes of the Wealth of Nations*](http://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 
 The first of these propositions is the 'Pin Factory' a device Adam's uses to explain that increasing specialization and division of labor leads to ever greater economies of scale which are ultimately limited by the "Extent of the market."
 
