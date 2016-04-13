@@ -6,9 +6,9 @@ layout: page
 ---
 Adamalthus is the concatenation of the first name of 'Adam' Smith and the Last name of Thomas Robert 'Malthus' two of the most influential thinkers of their time whose ideas still resonate nearly three centuries later.
 
-You can read their extensive biographies [here] (http://en.wikipedia.org/wiki/Adam_smith) for Adam Smith and [here] (http://en.wikipedia.org/wiki/Thomas_Robert_Malthus) for Thomas Malthus.
+You can read their extensive biographies [here](http://en.wikipedia.org/wiki/Adam_smith) for Adam Smith and [here](http://en.wikipedia.org/wiki/Thomas_Robert_Malthus) for Thomas Malthus.
 
-Smith is recognized as the father of modern economics and specifically one of the first theorists in political economy. He outlined two central propositions [The Wealth of Nations] (http://en.wikipedia.org/wiki/The_Wealth_of_Nations) *An Inquiry into the Nature and Causes of the Wealth of Nations*
+Smith is recognized as the father of modern economics and specifically one of the first theorists in political economy. He outlined two central propositions [The Wealth of Nations](http://en.wikipedia.org/wiki/The_Wealth_of_Nations) *An Inquiry into the Nature and Causes of the Wealth of Nations*
 
 The first of these propositions is the 'Pin Factory' a device Adam's uses to explain that increasing specialization and division of labor leads to ever greater economies of scale which are ultimately limited by the "Extent of the market."
 
@@ -22,7 +22,7 @@ The Revd. Thomas Robert Malthus was ten years old when Smith published <em>The W
 
 He is most influential for his writing and ideas on population growth and is recognized as one of the first demographers. Where Smith saw a society benefiting from economic growth driven by specialization and free markets, Malthus had a contrary view.
 
-In his book [An Essay on the Principle of Population] (http://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population) Malthus predicted that the power of population growth would outstrip the ability of agriculture to provide enough food for the expanding population. This simple, but highly influential idea has been expanded over time into the broader concept of a [Malthusian Catastrophe] (http://en.wikipedia.org/wiki/Malthusian_catastrophe) where economic or natural resource limits are seen as placing an ultimate boundary on the growth of the human population.
+In his book [An Essay on the Principle of Population](http://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population) Malthus predicted that the power of population growth would outstrip the ability of agriculture to provide enough food for the expanding population. This simple, but highly influential idea has been expanded over time into the broader concept of a [Malthusian Catastrophe](http://en.wikipedia.org/wiki/Malthusian_catastrophe) where economic or natural resource limits are seen as placing an ultimate boundary on the growth of the human population.
 
 It is relevant that both Smith and Malthus' ideas were put forward during an early stage of the industrial revolution. Not surprisingly, their various theories do not internalize the profound effect that technological improvement would have on economies and societies.
 
@@ -34,6 +34,6 @@ The ideas of Smith and Malthus still define the greatest challenge facing our gl
 
 Growing up as a child of the late 60s - watching the moon landings and being the first generation to have access to a personal computer - I have always had an optimistic view about technology's ultimate ability to help us innovate our way out of danger. With maturity and the experience of traveling around the world for the last 25 years seeing the complete range of economic, social and environmental challenges I am no longer so sure.
 
-The human race has faced its share of challenges. The [Toba Catastrophe] (http://en.wikipedia.org/wiki/Toba_catastrophe_theory) proposes that a super volcanic eruption some 70,000 years ago initiated a 'Nuclear winter' which lead to an extended period of global cooling. It is proposed that this event had the effect of reducing the total global hominid population to no more that 10-15,000 individuals. From that group the human race evolved into what it is today. Creativity and innovation were the keys to their survival and the creation of our opportunity.
+The human race has faced its share of challenges. The [Toba Catastrophe](http://en.wikipedia.org/wiki/Toba_catastrophe_theory) proposes that a super volcanic eruption some 70,000 years ago initiated a 'Nuclear winter' which lead to an extended period of global cooling. It is proposed that this event had the effect of reducing the total global hominid population to no more that 10-15,000 individuals. From that group the human race evolved into what it is today. Creativity and innovation were the keys to their survival and the creation of our opportunity.
 
 The challenges facing the human race today are profound: Climate change, fresh water supplies and nuclear proliferation amongst many. My interests lie in how we will, or will not, innovate our way through these challenges, technologically, socially and politically?
