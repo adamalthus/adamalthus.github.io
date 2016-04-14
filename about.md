@@ -4,7 +4,7 @@ date: 04/09/2016
 author: JM
 layout: page
 ---
-Jonathan is Executive Vice President and Chief Technology Officer at Digital Prism Advisors His unique blend of large enterprise sales, operating and business strategy and policy experience combined with a deep expertise in modern software architecture and engineering makes him the ideal partner for clients needing to understand and address the complex factors at play in today’s data driven digital transformation.
+Jonathan Murray *Adamalthus* is Executive Vice President and Chief Technology Officer at Digital Prism Advisors His unique blend of large enterprise sales, operating and business strategy and policy experience combined with a deep expertise in modern software architecture and engineering makes him the ideal partner for clients needing to understand and address the complex factors at play in today’s data driven digital transformation.
 
 Jonathan was most recently engaged as interim CTO and Head of Technology at The New York Times. Prior to this he was Executive Vice President & Chief Technology Officer at Warner Music Group (WMG) where he was responsible for the company’s global technology strategy. In this role he drove the transformation of WMG’s technology capabilities, the implementation of a new cloud computing based software delivery factory and new organizational and process models. This experience provided Jonathan with a unique perspective on the disruption of traditional organization structures, jobs and business models being wrought by a new generation of technologies, digital tools and platforms.
 
