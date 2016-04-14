@@ -3,17 +3,36 @@ title: The Composable Enterprise
 layout: post
 ---
 We have witnessed a major shift over recent decades towards a digital services based economy[[1]](#_ftn1). Exponential growth in the power of information technology enhanced by Internet driven network effects mean that even the most mundane manufactured products are seen as just one component of a broader digital services based value chain.
+
 The shift to digital services has transformed the global competitive landscape. Maintaining competitive differentiation requires continuous innovation – and lifecycles are contracting. In other words change is a constant. The dynamics of a hyper-competitive global market mean that static and long-lived models of company structure, operations and information technology services are no longer fit for purpose. We need a new operating model for the enterprise.  
+
 It is a reality of business today that supplier relationships, logistics networks, product and service design and customer service all survives in a state of permanent flux. Any path to sustainable competitive advantage will require a high degree of operational adaptability.
+
 Business functions, processes, organizations, supplier relationships and technology need to be seen as building blocks that can be re–configured as needed to address changing competitive landscape. This new _Component Operating Model_ (COM) requires a 'Lego Brick' approach to designing and implementing processes and the organizations that support them.
+
 Implementing a _COM_ based approach will have profound impacts on the structure of organizations, the nature of work. Business designs based on _COM_ will create significant stress for traditional IT infrastructures and organizations. Our current IT services were built to serve a static – and often functionally silo’d – operating model.
+
 IT needs to become much more dynamically adaptable to keep pace with the speed of business today. A new _Component Architecture Model_ (CAM) approach to IT infrastructure, applications and services will be required to ensure that IT can deliver what the business needs.
+
 The time between identifying a business need and delivering the required IT solution needs to becomes hours and days rather than months and years. The ‘Ying and Yang’ of _COM_ and _CAM_ is a radical departure from the discontinuities of the past. We are about to enter an era where - for the first time - business and technology operating models can be seamlessly aligned to enable fast, flexible response to a rapidly changing competitive landscapes.
+
 Combining the approaches of both _COM_ and _CAM_ will enable us to view the entire portfolio of business functions, processes, organizations, relationships and technology as a set of re-usable components that can be configured as demanded. Welcome to the _Composable Enterprise™_.
 
 # Radical Change
 
-Most companies would consider the _Composable Enterprise Model™_ (CEM)radical today. And yet its difficult to imagine how more static approaches to business operations will survive in an increasingly dynamic and competitive global economy. A ‘chasm’ already exists between those companies that grew-up-digital and those more traditional companies attempting to adapt to new digital markets. Companies such as Amazon have always had to deal with hyper-competition and constant, fast-cycle change. Amazon’s approach to building out its retail business is driven by a deep understanding of digital business dynamics. Amazon is perhaps the closest proxy for a _Composable Enterprise™_ today and that makes it a formidable competitor for traditional ‘Bricks and Mortar’ retailers. Building a _Composable Enterprise™ _operating model - where functions and processes can be continually re-configured with low cost and operational impact - raises significant challenges. The two greatest of these will undoubtedly be organization and technology. This is change management in extremis. Change of this magnitude requires visionary and forceful top-down leadership. Implementing the _Composable Enterprise_ approach is not going to happen from the bottom-up. The level of disruption in most organizations will require a vision to which staff can aspire. The greater the change the more compelling that vision will need to be. Companies are unlikely to find that they have a large proportion of staff with the skills and capability to build, operate and thrive in the _Composable Enterprise™_ model. Significant re-skilling will be required. Many already-digital businesses are likely to find that the demands placed on IT by the _Composable Enterprise™_ modelfar exceed the capabilities of existing systems and application landscapes. This will be amplified for company’s attempting to transform from more traditional ‘analog’ business models. The vast majority of IT systems in existence were designed for static business models and not for fast re-configuration of business processes, data flows and interconnection between disparate functions. As I will describe below the radical _CEM_ based approach will require a radical technology fabric to match.
+Most companies would consider the _Composable Enterprise Model™_ (CEM)radical today. And yet its difficult to imagine how more static approaches to business operations will survive in an increasingly dynamic and competitive global economy.
+
+A ‘chasm’ already exists between those companies that grew-up-digital and those more traditional companies attempting to adapt to new digital markets. Companies such as Amazon have always had to deal with hyper-competition and constant, fast-cycle change.
+
+Amazon’s approach to building out its retail business is driven by a deep understanding of digital business dynamics. Amazon is perhaps the closest proxy for a _Composable Enterprise™_ today and that makes it a formidable competitor for traditional ‘Bricks and Mortar’ retailers.
+
+Building a _Composable Enterprise™ _operating model - where functions and processes can be continually re-configured with low cost and operational impact - raises significant challenges. The two greatest of these will undoubtedly be organization and technology. This is change management in extremis. Change of this magnitude requires visionary and forceful top-down leadership.
+
+Implementing the _Composable Enterprise_ approach is not going to happen from the bottom-up. The level of disruption in most organizations will require a vision to which staff can aspire. The greater the change the more compelling that vision will need to be. Companies are unlikely to find that they have a large proportion of staff with the skills and capability to build, operate and thrive in the _Composable Enterprise™_ model.
+
+Significant re-skilling will be required. Many already-digital businesses are likely to find that the demands placed on IT by the _Composable Enterprise™_ modelfar exceed the capabilities of existing systems and application landscapes. This will be amplified for company’s attempting to transform from more traditional ‘analog’ business models.
+
+The vast majority of IT systems in existence were designed for static business models and not for fast re-configuration of business processes, data flows and interconnection between disparate functions. As I will describe below the radical _CEM_ based approach will require a radical technology fabric to match.
 
 # The Component Organization Model
 
