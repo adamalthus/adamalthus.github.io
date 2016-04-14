@@ -74,9 +74,9 @@ _Integrated Analytics_ – All data to be used by the business for decision-maki
 
 _People Services_ _–_ The fabric should expose core services that enable role-based user authentication and user profile management to facilitate expertise discovery and rapid organizational re-configuration.
 
-_Process Services_ _–_ The fabric should expose core services that facilitate process monitoring and workflow integration to facilitate rapid process re-configuration.
+_Process Services_ - The fabric should expose core services that facilitate process monitoring and workflow integration to facilitate rapid process re-configuration.
 
-_Data Services_ _-_ All master and analytics data should be accessible through standards based _data access services_ and should be consumable in both human and machine accessible form. _Any Time, Anywhere, Any Device Access_ _–_ Operational applications should be made available using a web based ‘Software as a Service’ (SaaS) delivery model accessible from any device capable of running a modern web browser.
+_Data Services_ - All master and analytics data should be accessible through standards based _data access services_ and should be consumable in both human and machine accessible form. _Any Time, Anywhere, Any Device Access_ _–_ Operational applications should be made available using a web based ‘Software as a Service’ (SaaS) delivery model accessible from any device capable of running a modern web browser.
 
 The purpose of these requirements is to ensure that IT applications and services can be managed and delivered with the same level of granularity as the business functions that use them.
 
