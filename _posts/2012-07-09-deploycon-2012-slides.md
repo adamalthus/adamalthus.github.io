@@ -27,4 +27,4 @@ tags:
   - PaaS
 format: link
 ---
-Link to&nbsp;the PDF of&nbsp;the slides I&nbsp;used for my&nbsp;recent &laquo;Paas: Fit for the Enterprise&raquo; presentation at&nbsp;DeployCon 2012 in&nbsp;New York.
+Link to the PDF of the slides I used for my recent "Paas: Fit for the Enterprise" presentation at DeployCon 2012 in New York.
