@@ -85,3 +85,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Site Settings
+excerpt_separator: "<!--excerpt-->"
