@@ -1,23 +1,7 @@
 ---
-id: 603
-title: 'Microsoft's Pivot - A Plan to Dominate "Devices and Services"'
-date: 2012-10-25T19:46:03+00:00
-author: Jonathan
+title: Microsoft's Pivot - A Plan to Dominate "Devices and Services"
 layout: post
-guid: http://www.adamalthus.com/?p=603
 permalink: /blog/2012/10/25/microsofts-pivot/
-image:
-  - 
-quote-author:
-  - Unknown
-quote-url:
-  - http://
-quote-copy:
-  - Unknown
-audio:
-  - http://
-link-url:
-  - http://
 categories:
   - Apple
   - ARM

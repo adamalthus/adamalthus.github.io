@@ -1,23 +1,7 @@
 ---
-id: 863
-title: 'Why There's No Future in Cloud Futures'
-date: 2013-05-11T17:41:58+00:00
-author: Jonathan
+title: Why There's No Future in Cloud Futures
 layout: post
-guid: http://www.adamalthus.com/?p=863
 permalink: /blog/2013/05/11/why-theres-no-future-in-cloud-futures/
-image:
-  - 
-quote-author:
-  - Unknown
-quote-url:
-  - http://
-quote-copy:
-  - Unknown
-audio:
-  - http://
-link-url:
-  - http://
 categories:
   - Amazon
   - Cloud

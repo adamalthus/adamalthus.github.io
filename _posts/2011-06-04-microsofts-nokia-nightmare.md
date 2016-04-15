@@ -1,13 +1,8 @@
 ---
-id: 278
-title: 'Microsoft's Nokia Nightmare'
-date: 2011-06-04T20:37:04+00:00
+title: Microsoft's Nokia Nightmare
 author: JM
 layout: post
-guid: http://www.adamalthus.com/?p=278
 permalink: /blog/2011/06/04/microsofts-nokia-nightmare/
-aktt_notify_twitter:
-  - no
 categories:
   - Microsoft
   - Platforms
@@ -20,11 +15,11 @@ tags:
   - wp7
 ---
 Last week saw a lot of speculation regarding Microsoft's possible acquisition of Nokia's mobile devices business. The rumor was quashed by Stephen Elop <a href="http://blogs.forbes.com/ericsavitz/2011/06/01/d9-nokia-ceo-elop-flat-out-denies-rumors-microsoft-to-buy-hardware-unit%2F" target="_blank">speaking at the All Things D</a> conference who denied there had been any discussion with Microsoft regarding an acquisition. Case closed then? Maybe not.
-  
+
 <!--more-->
 
 
-  
+
 It is obvious just how strategically important the Microsoft deal is for Nokia. Its not overstating the situation to say that Nokia's very survival and a major mobile handset vendor hinges on how effectively the transition to Windows Phone 7 is handled and how successful the resulting Nokia/Microsoft products are in the market place. There is little or no room for error.
 
 While the same can not be said about Microsoft - the company is certainly not going to go out of business if the Nokia deal doesn't pan out - In my view Steve Ballmer's continued ability to bring the Microsoft board along with him on this windows phone investment binge does depend on Nokia's success. Only Nokia can deliver WP7 the volume it needs to viewed as a viable third alternative in the smartphone operating system business - I'm sticking by my previous <a href=" http://www.adamalthus.com/2011/01/sinofskys-power-play/" target="_blank">prediction</a> of a paltry 1.25M WP7 unit sales to date. Nokia is being given "First among equals" status in the smartphone device manufacturer ecosystem because the future of Ballmer's phone strategy - and perhaps his very position - depends on Nokia's success.

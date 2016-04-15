@@ -1,23 +1,7 @@
 ---
-id: 974
-title: 'Cloud Computing's Free Lunch'
-date: 2014-10-23T17:06:29+00:00
-author: JM
+title: Cloud Computing's Free Lunch
 layout: post
-guid: http://www.adamalthus.com/?p=974
 permalink: /blog/2014/10/23/the-free-lunch-is-coming-2/
-image:
-  - 
-quote-author:
-  - Unknown
-quote-url:
-  - http://
-quote-copy:
-  - Unknown
-audio:
-  - http://
-link-url:
-  - http://
 categories:
   - Cloud
   - Economics

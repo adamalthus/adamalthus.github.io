@@ -1,23 +1,8 @@
 ---
-id: 957
-title: 'Technology's Triple Threat'
-date: 2014-10-05T16:09:48+00:00
-author: JM
+title: Technology's Triple Threat
 layout: post
 guid: http://www.adamalthus.com/?p=957
 permalink: /blog/2014/10/05/technologys-triple-threat/
-image:
-  - 
-quote-author:
-  - Unknown
-quote-url:
-  - http://
-quote-copy:
-  - Unknown
-audio:
-  - http://
-link-url:
-  - http://
 categories:
   - Uncategorized
 ---
