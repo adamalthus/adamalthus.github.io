@@ -34,7 +34,7 @@ tags:
 ---
 This <a href="http://www.forbes.com/sites/phillipkeys/2012/05/31/network-equipment-manufacturers-try-to-help-out-mobile-carriers/" target="_blank">article</a> in Forbes magazine about network equipment providers enabling network carriers to expose service APIs (Application Programing Interfaces) started an interesting <a href="https://twitter.com/jonathanmurray/status/209309211614642176" target="_blank">debate</a> with Alcatel-Lucent's Laura Merling (<a href="https://twitter.com/#!/magicmerl" target="_blank">@magicmerl</a>), Mike Maney (<a href="https://twitter.com/#!/the_spinmd" target="_blank">@the_spinmd</a>) and others on Twitter.
 
-The crux of the debate is whether exposing developer APIs at the network layer is a good or a bad thing. This is the latest round in the 'dumb pipes vs. smart network' debate which lies at the heart of an economic dilemma facing the network carrier business model.<!--more-->
+The crux of the debate is whether exposing developer APIs at the network layer is a good or a bad thing. This is the latest round in the 'dumb pipes vs. smart network' debate which lies at the heart of an economic dilemma facing the network carrier business model.<!--excerpt-->
 
 Value in the internet economic model is being extracted by the likes of Google, Microsoft, Facebook, EBay, Amazon et. al. &mdash; not by the network providers.
 

@@ -20,7 +20,7 @@ tags:
   - Quicken Onlline
   - TechCrunch
 ---
-TechCrunch's <a title="TechCrunch" href="http://techcrunch.com/2010/07/19/quicken-online-users-saw-the-bait-took-the-switch-to-mint-com-and-are-left-with-nothing/" target="_blank">article</a> about Intuit's decision to shut down Quicken OnLine and not let users migrate their data to the new service Mint.com is an outstanding example of the emerging problem of 'Data Lock-In' and an issue which regulators need to get ahead of before its too late.<!--more-->
+TechCrunch's <a title="TechCrunch" href="http://techcrunch.com/2010/07/19/quicken-online-users-saw-the-bait-took-the-switch-to-mint-com-and-are-left-with-nothing/" target="_blank">article</a> about Intuit's decision to shut down Quicken OnLine and not let users migrate their data to the new service Mint.com is an outstanding example of the emerging problem of 'Data Lock-In' and an issue which regulators need to get ahead of before its too late.<!--excerpt-->
 
 As the market for 'Cloud' services takes off we're going to witness an explosion of new services whose value proposition is based on managing some aspects of the consumers life on-line. The big buckets already are life-centric services such as health and fitness, personal finances and of course managing you social graph. The expanding roster of new services will be accompanied by an equally large number of failures. That is the natural order of things in new markets. Not all new entrants will find a business model which works or is sustainable over the long term. Regulators need to start thinking about the consumer protection regimes that need to be put in place as this happens.
 

@@ -14,7 +14,7 @@ tags:
   - windows phone 7
   - wp7
 ---
-Last week saw a lot of speculation regarding Microsoft's possible acquisition of Nokia's mobile devices business. The rumor was quashed by Stephen Elop <a href="http://blogs.forbes.com/ericsavitz/2011/06/01/d9-nokia-ceo-elop-flat-out-denies-rumors-microsoft-to-buy-hardware-unit%2F" target="_blank">speaking at the All Things D</a> conference who denied there had been any discussion with Microsoft regarding an acquisition. Case closed then? Maybe not.<!--more-->
+Last week saw a lot of speculation regarding Microsoft's possible acquisition of Nokia's mobile devices business. The rumor was quashed by Stephen Elop <a href="http://blogs.forbes.com/ericsavitz/2011/06/01/d9-nokia-ceo-elop-flat-out-denies-rumors-microsoft-to-buy-hardware-unit%2F" target="_blank">speaking at the All Things D</a> conference who denied there had been any discussion with Microsoft regarding an acquisition. Case closed then? Maybe not.<!--excerpt-->
 
 It is obvious just how strategically important the Microsoft deal is for Nokia. Its not overstating the situation to say that Nokia's very survival and a major mobile handset vendor hinges on how effectively the transition to Windows Phone 7 is handled and how successful the resulting Nokia/Microsoft products are in the market place. There is little or no room for error.
 

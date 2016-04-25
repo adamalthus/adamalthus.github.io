@@ -34,7 +34,7 @@ The IT infrastructure of most reasonably sized businesses is a horrendous _cats 
 
 _Time-to-Value_ is perhaps the most important metric in today's dynamic, competitive service-led economy but against this measure most corporate IT organizations fail miserably. The requirement for IT to keep pace with the speed of business has never been greater but the ugly reality for most CIOs is that the _complexity_ of their IT infrastructures is overwhelming and an increasing percentage of IT budgets is now spent on maintaining and integrating aging legacy systems rather than delivering new value to the business.
 
-No wonder most CEOs are skeptical about the strategic value of IT.<!--more-->
+No wonder most CEOs are skeptical about the strategic value of IT.<!--excerpt-->
 
 ## Scarcity and Complexity
 

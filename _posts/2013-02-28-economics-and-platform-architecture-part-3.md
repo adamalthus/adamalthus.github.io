@@ -33,7 +33,7 @@ categories:
   - Platforms
   - Strategy
 ---
-<a href="http://www.adamalthus.com/blog/2013/02/27/economics-and-platform-architecture-ii/" target="_blank">Part 2</a> of this series of articles looked at how transitioning from scarcity to an abundance of fundamental computing resources enabled the historic one-to-one relationship between operating systems, applications and underlying hardware to be broken_._ Part 3 will examine how the ability to decouple hardware and software evolved into a new strategy for managing IT systems - saving company's millions of dollars in the process - and laid the foundation for today's cloud computing architectures.<!--more-->
+<a href="http://www.adamalthus.com/blog/2013/02/27/economics-and-platform-architecture-ii/" target="_blank">Part 2</a> of this series of articles looked at how transitioning from scarcity to an abundance of fundamental computing resources enabled the historic one-to-one relationship between operating systems, applications and underlying hardware to be broken_._ Part 3 will examine how the ability to decouple hardware and software evolved into a new strategy for managing IT systems - saving company's millions of dollars in the process - and laid the foundation for today's cloud computing architectures.<!--excerpt-->
 
 The Mac on which this article was written can run not only Apple's native OS X operating system, but also Microsoft Windows, multiple variants of Linux and - if needed Oracle's Open Solaris operating system. A modern personal laptop computer has such an abundance of computational capacity that multiple distinct hardware architectures can be _emulated_ in software.
 

@@ -4,7 +4,7 @@ layout: post
 ---
 We have witnessed a major shift over recent decades towards a digital services based economy. Exponential growth in the power of information technology enhanced by Internet driven network effects mean that even the most mundane manufactured products are seen as just one component of a broader digital services based value chain.
 
-The shift to digital services has transformed the global competitive landscape. Maintaining competitive differentiation requires continuous innovation – and lifecycles are contracting. In other words change is a constant. The dynamics of a hyper-competitive global market mean that static and long-lived models of company structure, operations and information technology services are no longer fit for purpose. We need a new operating model for the enterprise.<!--more-->
+The shift to digital services has transformed the global competitive landscape. Maintaining competitive differentiation requires continuous innovation – and lifecycles are contracting. In other words change is a constant. The dynamics of a hyper-competitive global market mean that static and long-lived models of company structure, operations and information technology services are no longer fit for purpose. We need a new operating model for the enterprise.<!--excerpt-->
 
 It is a reality of business today that supplier relationships, logistics networks, product and service design and customer service all survives in a state of permanent flux. Any path to sustainable competitive advantage will require a high degree of operational adaptability.
 

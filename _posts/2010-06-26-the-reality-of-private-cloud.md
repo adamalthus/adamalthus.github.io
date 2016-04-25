@@ -22,7 +22,7 @@ format: aside
 ---
 Mary-Jo Foley posted a provocative <a title="Who is pushing the private cloud: Users or vendors?" href="http://bit.ly/acGNH5" target="_blank">article</a> yesterday about the reality of 'Private Cloud' offerings and who is driving the demand; customers or vendors?
 
-As I was one of the people responsible for designing Microsoft's Public Sector 'Cloud' strategy I have some opinions about this issue which I wanted to share.<!--more-->
+As I was one of the people responsible for designing Microsoft's Public Sector 'Cloud' strategy I have some opinions about this issue which I wanted to share.<!--excerpt-->
 
 It's fair to say that until we started looking at the worldwide customer requirements for 'Cloud' in the public sector the whole issue of 'Private Clouds' was not a major part of the company's overall 'Cloud' strategy. However, once you start looking at the requirements of public sector organizations outside the US you very quickly realize that standard 'Public Cloud' offerings will not cut it.
 

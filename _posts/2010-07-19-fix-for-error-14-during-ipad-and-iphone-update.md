@@ -32,7 +32,7 @@ tags:
 ---
 [Updated with Windows 7 File location]
 
-The update of my iPad to version 3.2.1 of iOS failed last night. iTunes reported that an 'Error 14' had occured (Not very helpful) Subsequent attempts at un-docking and re-docking resulted in iTunes trying and failing to restore the device. Here's how I fixed the problem.<!--more-->
+The update of my iPad to version 3.2.1 of iOS failed last night. iTunes reported that an 'Error 14' had occured (Not very helpful) Subsequent attempts at un-docking and re-docking resulted in iTunes trying and failing to restore the device. Here's how I fixed the problem.<!--excerpt-->
 
 I eventually took a scroll through the crash dump which iTunes was suggesting I should send to Apple for analysis. It appeared from the logs that the updated OS image was failing a checksum verification i.e. it had been corrupted during the download. A few minutes of searching provided the information needed to fix the problem:
 

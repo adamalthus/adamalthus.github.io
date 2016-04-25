@@ -24,9 +24,9 @@ tags:
 ---
 We are currently witnessing a major pivot in Microsoft's core business model. It is starting to become clear that - as Steve Ballmer <a href="http://www.microsoft.com/investor/reports/ar12/shareholder-letter/index.html" target="_blank">recently announced</a> - Microsoft is deadly serious about becoming a global leader in consumer "Devices and Services." Successful execution of this strategy will require the company to control everything from manufacturing, distribution logistics through to retail.
 
-The company appears to be focused on executing a 'Leader' strategy in the devices business which would give them even greater control than Apple famously does over the end user experience. In addition the company is likely to repurpose its online service investments to add value to this new device-led strategy. A-la Apple, consumers will have no choice but to use Microsoft own services when using a Microsoft mobile device and competition authorities will be powerless to prevent it.<!--more-->
+The company appears to be focused on executing a 'Leader' strategy in the devices business which would give them even greater control than Apple famously does over the end user experience. In addition the company is likely to repurpose its online service investments to add value to this new device-led strategy. A-la Apple, consumers will have no choice but to use Microsoft own services when using a Microsoft mobile device and competition authorities will be powerless to prevent it.<!--excerpt-->
 
-If correct, this pivot will has profound implications for the structure of the company, shareholder value and for the entire mobile technology industry.<!--more-->
+If correct, this pivot will has profound implications for the structure of the company, shareholder value and for the entire mobile technology industry.<!--excerpt-->
 
 ##### In the beginning&hellip;
 

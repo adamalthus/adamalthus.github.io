@@ -31,7 +31,7 @@ categories:
 ---
 The economic evolution of computing platforms appears to be guided by a number of 'Laws' that are independent of any specific underlying technology. These 'Laws' help explain the evolutionary trajectory of mature platforms and can act as a predictor for the trajectory of emerging platforms and behaviors of those that control them.
 
-The first three laws of platform economics are: _Value always migrates up the stack, _Value gets integrated over time, _Those that control platform evolution get to define how value is extracted.___ A definition of each of the 'Laws' is provided below:<!--more-->
+The first three laws of platform economics are: _Value always migrates up the stack, _Value gets integrated over time, _Those that control platform evolution get to define how value is extracted.___ A definition of each of the 'Laws' is provided below:<!--excerpt-->
 
 __**First Law -** _Value always migrates up the stack_ - Value creating functionality which starts off embedded in silicon or hardware functionality will eventually migrate to software. As a platform matures value will be driven by software functionality that is increasingly abstracted from any specific underlying physical implementation. The canonical example of this law is the networking stack: Highly specialized network routing silicon gives way to specialized router operating systems which eventually give way to software defined networking layers in cloud computing fabrics.
 

@@ -21,7 +21,7 @@ categories:
   - Platforms
   - Uncategorized
 ---
-In this series of articles outlined the impact that the _economics of scarcity_ has had on both software architectures and the structure of the computer industry over the last forty years. Part II of the article will discuss the transition from the _economics of scarcity_ to the _economics of abundance_ and how profoundly that has altered - and continues to alter - the computing landscape.<!--more-->
+In this series of articles outlined the impact that the _economics of scarcity_ has had on both software architectures and the structure of the computer industry over the last forty years. Part II of the article will discuss the transition from the _economics of scarcity_ to the _economics of abundance_ and how profoundly that has altered - and continues to alter - the computing landscape.<!--excerpt-->
 
 The introduction of the IBM PC in the early 80's laid the foundation for a transformation in the economic model of the computing industry. IBM broke with its traditional model when it outsourced the supply of the computer processor and operating system for its Personal Computer (PC.) Little did IBM know that this single decision would transform an industry. The decision to source processors from Intel and an operating system from Microsoft and to not bind both these suppliers to exclusive supply agreements created the opportunity to build a 3rd party PC industry based IBM's generic blueprint. The market for PCs grew and other players such as Compaq created competitive alternatives to IBM. The highly competitive dynamics of the PC industry based on the _open_ hardware blueprint created by IBM had very direct consequences.
 

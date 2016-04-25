@@ -23,7 +23,7 @@ tags:
   - activation energy
   - chemical reaction dynamics
 ---
-In various corporate meeting rooms at Samsung, Microsoft, HP, RIM and Google eager teams of engineers, marketing folks and freshly minted MBAs are trying to figure out the magic formula which will deliver a product to compete with Apple's iPad. Hopefully they were all paying attention in high-school because the first steps to understanding the dynamics of this type of platform competition were almost certainly covered in chemistry class.<!--more-->
+In various corporate meeting rooms at Samsung, Microsoft, HP, RIM and Google eager teams of engineers, marketing folks and freshly minted MBAs are trying to figure out the magic formula which will deliver a product to compete with Apple's iPad. Hopefully they were all paying attention in high-school because the first steps to understanding the dynamics of this type of platform competition were almost certainly covered in chemistry class.<!--excerpt-->
 
 It turns out that the field of chemical reaction dynamics provides a rather neat model which explains why Apple's competitors are finding it so hard to gain traction against the iPad. Indeed this abstract model is generally applicable to all situations where an existing product is being challenged by new entrants.
 

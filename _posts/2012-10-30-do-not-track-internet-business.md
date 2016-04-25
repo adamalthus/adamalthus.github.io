@@ -37,7 +37,7 @@ This relatively arcane debate over a new internet standard masks a much more cri
 
 Advertising revenue is the internet's predominant business model. This is of course the core business model that enabled Google to become the 800 lb. gorilla of the industry. But this business model is based on users accepting a 'Faustian' pact where they agree to increasingly invasive tracking of their online activities in exchange for free content.
 
-There's only one small problem with the current situation. Very few consumers have ever read or consented to the 'Contract.' Most of consumers have no earthly idea how invasive today's internet tracking technology is and once they are aware they are not going to like it.<!--more-->
+There's only one small problem with the current situation. Very few consumers have ever read or consented to the 'Contract.' Most of consumers have no earthly idea how invasive today's internet tracking technology is and once they are aware they are not going to like it.<!--excerpt-->
 
 The howls of outrage from advertisers and from sites like Yahoo - that depend on advertising revenue for their very existence - about Microsoft's decision to enable DNT by default mask a much deeper fear. Once online consumers realize the true value of their '<a href="http://en.wikipedia.org/wiki/Clickstream" target="_blank">click-stream</a>' perhaps they will start asking for a lot more in return. Maybe the fallacy of 'free' content on the internet will be made transparent with all the dire consequences that would entail for the companies that depend on this business model.
 

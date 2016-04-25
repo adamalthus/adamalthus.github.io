@@ -27,7 +27,7 @@ categories:
   - Political Economy
   - Population
 ---
-The NY Times published an <a title="Disruptions: At Amazon, the Robot World Comes a Little Closer" href="http://nyti.ms/HqlDMT" target="_blank">interesting article</a> today the impact of robotics on manufacturing jobs using Amazon's purchase of robot maker <a title="Amazon.com to Acquire Manufacturer of Robotics" href="http://nyti.ms/HqoN38" target="">Kiva Systems</a> as an exemplar. The core question raised in the article is whether the adoption of automation technologies will create more unemployment or whether - as has been seen in the past - displaced workers will re-train and become employed in other productive areas of the economy.<!--more-->
+The NY Times published an <a title="Disruptions: At Amazon, the Robot World Comes a Little Closer" href="http://nyti.ms/HqlDMT" target="_blank">interesting article</a> today the impact of robotics on manufacturing jobs using Amazon's purchase of robot maker <a title="Amazon.com to Acquire Manufacturer of Robotics" href="http://nyti.ms/HqoN38" target="">Kiva Systems</a> as an exemplar. The core question raised in the article is whether the adoption of automation technologies will create more unemployment or whether - as has been seen in the past - displaced workers will re-train and become employed in other productive areas of the economy.<!--excerpt-->
 
 The authors quote Lawrence Summers views on the matter:
 
