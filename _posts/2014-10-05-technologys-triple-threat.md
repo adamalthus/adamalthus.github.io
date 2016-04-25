@@ -6,7 +6,7 @@ permalink: /blog/2014/10/05/technologys-triple-threat/
 categories:
   - Uncategorized
 ---
-#### Cross-posted from the <a href="http://innoviaventures.com/technologys-triple-threat/" target="_blank">Innovia Ventures Blog</a> by Jonathan Murray & Desiree van Welsum
+#### Cross-posted from the Innovia Ventures Blog by Jonathan Murray & Desiree van Welsum
 
 What impact will the increasingly widespread use of digital tools and information have on our society and economy and how will we deal with the disruptive forces brought to life and amplified by these technologies?
 
