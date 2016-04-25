@@ -9,7 +9,7 @@ permalink: /blog/2012/06/03/network-carrier-dilemma/
 aktt_notify_twitter:
   - no
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:

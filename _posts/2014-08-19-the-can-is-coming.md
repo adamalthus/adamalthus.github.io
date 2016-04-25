@@ -7,7 +7,7 @@ layout: post
 guid: http://www.adamalthus.com/?p=926
 permalink: /blog/2014/08/19/the-can-is-coming/
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:
@@ -37,9 +37,7 @@ categories:
 
 In the brave new world of the 'Internet of Things' - IoT - moving every bit of generated data from edge devices to the center for processing will likely make little economic sense. A new distributed data processing architecture is going to be required.
 
-Content Distribution Networks (CDNs) are a common way of efficiently moving data from the center to the edge of the network but a new generation of Content Aggregation Networks (CANs) may be required to make the processing of IoT data economically viable - is there a 'CAN' in your future?
-
-<!--more-->
+Content Distribution Networks (CDNs) are a common way of efficiently moving data from the center to the edge of the network but a new generation of Content Aggregation Networks (CANs) may be required to make the processing of IoT data economically viable - is there a 'CAN' in your future?<!--more-->
 
 Content Distribution Networks - CDNs are frequently used to get data out to edge devices with the most efficiency and cost effectiveness. A CDN acts an efficient distribution network for data accessed by end users - html, css, scripts, audio, video etc. &mdash; all the stuff that ends up being rendered by our browsers and media players. CDN's move large volumes of this data from the center out - through high capacity, low cost, pipes - to local 'Points-of-Presence' which are geographically close to the end user. This model allows for economically efficient distribution while at the same time greatly improves the end user experience by reducing the time to serve individual user requests.
 

@@ -18,9 +18,7 @@ tags:
   - TPN
   - Transatlantic Policy Network
 ---
-"Cloud computing" is much more than simply a new set of technologies and business models. It is rapidly emerging as the platform that will underpin the next generation of digital products and services. Cloud Computing is transforming how consumers, companies, and governments store information, how they process and exchange that information, and how they utilize computing power. Consequently, it opens a new set of policy discussions while at the same time underlining the importance of old debates.
-
-<!--more-->
+"Cloud computing" is much more than simply a new set of technologies and business models. It is rapidly emerging as the platform that will underpin the next generation of digital products and services. Cloud Computing is transforming how consumers, companies, and governments store information, how they process and exchange that information, and how they utilize computing power. Consequently, it opens a new set of policy discussions while at the same time underlining the importance of old debates.<!--more-->
 
 Discussions of policy in an era of "cloud computing" will continue the debate about classic questions: the terms of market access for services and the rules for privacy, security, IP and more. However, the Cloud must be understood as at once a competitive service, <a href="http://www.springerlink.com/content/0102m443m6522v1u/" target="_blank">a dynamic enhanced utility</a>, an ICT infrastructure/platform and innovation eco-system, a marketplace, and a production environment. The pervasive, disruptive multi-role character of "cloud computing" demands that a new array of vital questions be opened.
 

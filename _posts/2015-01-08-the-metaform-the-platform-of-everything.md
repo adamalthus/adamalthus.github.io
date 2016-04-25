@@ -7,7 +7,7 @@ layout: post
 guid: http://www.adamalthus.com/?p=992
 permalink: /blog/2015/01/08/the-metaform-the-platform-of-everything/
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:

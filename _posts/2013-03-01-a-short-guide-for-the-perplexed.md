@@ -7,7 +7,7 @@ layout: post
 guid: http://www.adamalthus.com/?p=744
 permalink: /blog/2013/03/01/a-short-guide-for-the-perplexed/
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:
@@ -24,9 +24,7 @@ categories:
   - Platforms
   - Strategy
 ---
-Over the last couple of years the term _cloud_ _computing_ has become become public relations shorthand for "Look, look, we're also cool." The expression is now so overused and is applied so widely that it has become almost meaningless. That's a problem. Senior business decision makers have been set a drift in a sea of PR and marketing confusion just at a time when they need to be making strategic technology choices that may directly impact the future of their firms. I offer this brief guide to cloud computing in an effort to help cut through the fog currently enveloping this important topic.
-
-<!--more-->
+Over the last couple of years the term _cloud_ _computing_ has become become public relations shorthand for "Look, look, we're also cool." The expression is now so overused and is applied so widely that it has become almost meaningless. That's a problem. Senior business decision makers have been set a drift in a sea of PR and marketing confusion just at a time when they need to be making strategic technology choices that may directly impact the future of their firms. I offer this brief guide to cloud computing in an effort to help cut through the fog currently enveloping this important topic.<!--more-->
 
 Let's start with a formal definition of cloud:
 
@@ -38,11 +36,11 @@ Let's start with a formal definition of cloud:
   <p>
     Now we can deconstruct this definition to hopefully separate reality from hype.
   </p>
-  
+
   <p>
     <em>The provision of computing infrastructure, platform or application service as a utility - </em>Cloud computing is composed of three complimentary layers of service.
   </p>
-  
+
   <ul>
     <li>
       <em>Infrastructure as a Service </em>(IaaS) is where all the basic computing resources - computation (CPU), program memory, disk storage and network connections - are managed and allocated to higher level software services and applications as needed.
@@ -54,7 +52,7 @@ Let's start with a formal definition of cloud:
       <em>Software as a Service </em>(SaaS) is the highest level of cloud service consisting of the applications directly consumed by end users generally through a web browser and without the need to install software locally on the users PC.
     </li>
   </ul>
-  
+
   <p>
     There is a helpful shorthand for each of these layers of cloud computing service: IaaS is a computing <em>resource management model, PaaS</em> is a <em>software development model</em> and SaaS is an <em>application delivery model</em>.
   </p>

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 link-url:
   - http://www.adamalthus.com/wp-content/uploads/2012/06/DeployCon-2012-JGM.pdf
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:

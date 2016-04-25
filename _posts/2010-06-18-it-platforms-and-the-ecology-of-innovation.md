@@ -22,7 +22,9 @@ tags:
   - Chinese Academy of Governance
 format: aside
 ---
-It has been fun being back in Beijing this week. My first visit to the city was in 1989 when the streets were still filled with bicycles. I've been back here about once a year since then yet the pace of progress on so many levels is still hard to comprehend. Growth of the 'Starbucks Index' alone is mind blowing and seems to be reaching Seattle or New York densities. The other thing I've noticed is the incredible focus on efficiency; from the three hour turn-around for a visa at the Chinese Consulate in Zurich (Try that at the US Embassy), to the immigration process and flow through the airport. Yes, the traffic is still a nightmare and seems to be getting worse. I don't live here so I can imagine there is an alternate reality I'm not aware of. However, the general experience for visitors is pretty impressive.
+It has been fun being back in Beijing this week. My first visit to the city was in 1989 when the streets were still filled with bicycles. I've been back here about once a year since then yet the pace of progress on so many levels is still hard to comprehend. Growth of the 'Starbucks Index' alone is mind blowing and seems to be reaching Seattle or New York densities.<!--more-->
+
+The other thing I've noticed is the incredible focus on efficiency; from the three hour turn-around for a visa at the Chinese Consulate in Zurich (Try that at the US Embassy), to the immigration process and flow through the airport. Yes, the traffic is still a nightmare and seems to be getting worse. I don't live here so I can imagine there is an alternate reality I'm not aware of. However, the general experience for visitors is pretty impressive.
 
 I had a chance to catch up with Microsoft's National Technology Officer Sean Zhang on Wednesday for a great evening of conversation. I'll also be able to see Peter Moore and Michael Thatcher before I leave so that's an added bonus.
 

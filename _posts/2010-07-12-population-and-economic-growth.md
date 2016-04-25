@@ -24,20 +24,20 @@ tags:
   - Thomas Malthus
 ---
 <div id="attachment_117" style="width: 253px" class="wp-caption alignright">
-  <a title="World Population" href="http://en.wikipedia.org/wiki/World_population" target="_blank"><img class="size-medium wp-image-117" title="World Population 1800-2100" src="http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/588px-World-Population-1800-2100-294x300.png?fit=243%2C248" alt="World Population 1800-2100" srcset="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/588px-World-Population-1800-2100.png?resize=294%2C300 294w, http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/588px-World-Population-1800-2100.png?w=588 588w" sizes="(max-width: 243px) 100vw, 243px" data-recalc-dims="1" /></a> 
-  
+  <a title="World Population" href="http://en.wikipedia.org/wiki/World_population" target="_blank"><img class="size-medium wp-image-117" title="World Population 1800-2100" src="http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/588px-World-Population-1800-2100-294x300.png?fit=243%2C248" alt="World Population 1800-2100" srcset="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/588px-World-Population-1800-2100.png?resize=294%2C300 294w, http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/588px-World-Population-1800-2100.png?w=588 588w" sizes="(max-width: 243px) 100vw, 243px" data-recalc-dims="1" /></a>
+
   <p class="wp-caption-text">
     World Population 1800-2100 showing alternative growth projections
   </p>
 </div>
 
-The UK's Royal Society has just <a title="BBC News" href="http://bit.ly/clQa61" target="_blank">announced</a> a major new research project on the implications of population growth. The study is to be headed by the Nobel Laureate, Sir John Sulston. As the RI points out populations studies is quite a cyclical area of research. The '60s and '70s were a boom time for the field with less focus being given the the subject in the '80s and '90s. The fact that the topic is moving back up the political agenda probably has much to do with the intersection of population on two key policy issues; economic growth and climate change.
+The UK's Royal Society has just <a title="BBC News" href="http://bit.ly/clQa61" target="_blank">announced</a> a major new research project on the implications of population growth. The study is to be headed by the Nobel Laureate, Sir John Sulston. As the RI points out populations studies is quite a cyclical area of research. The '60s and '70s were a boom time for the field with less focus being given the the subject in the '80s and '90s. The fact that the topic is moving back up the political agenda probably has much to do with the intersection of population on two key policy issues; economic growth and climate change.<!--more-->
 
-The political debate about population growth has being going on for nearly three hundred years. Thomas Malthus, seen as the father of demography, clearly held the view that exponential population growth would outstrip improvements in agricultural production, condemning economies to a permanent state of subsistence. Adam Smith on the other hand believed that economic growth and improvements in people's socioeconomic circumstances would reduce fertility rates over time. 
+The political debate about population growth has being going on for nearly three hundred years. Thomas Malthus, seen as the father of demography, clearly held the view that exponential population growth would outstrip improvements in agricultural production, condemning economies to a permanent state of subsistence. Adam Smith on the other hand believed that economic growth and improvements in people's socioeconomic circumstances would reduce fertility rates over time.
 
 <div id="attachment_115" style="width: 259px" class="wp-caption alignright">
-  <a href="http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/300px-World_population_increase_history.svg_.png"><img class="size-full wp-image-115" title="World Population Growth Rate" src="http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/300px-World_population_increase_history.svg_.png?fit=249%2C187" alt="World Population Growth Rate" data-recalc-dims="1" /></a> 
-  
+  <a href="http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/300px-World_population_increase_history.svg_.png"><img class="size-full wp-image-115" title="World Population Growth Rate" src="http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2010/07/300px-World_population_increase_history.svg_.png?fit=249%2C187" alt="World Population Growth Rate" data-recalc-dims="1" /></a>
+
   <p class="wp-caption-text">
     World Population Growth Rate Over Time
   </p>

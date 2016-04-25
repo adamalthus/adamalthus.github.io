@@ -7,7 +7,7 @@ layout: post
 guid: http://www.adamalthus.com/?p=706
 permalink: /blog/2013/02/27/economics-and-platform-architecture-i/
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:

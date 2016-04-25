@@ -7,7 +7,7 @@ layout: post
 guid: http://www.adamalthus.com/?p=890
 permalink: /blog/2013/06/05/cloud-computing-and-complexity/
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:

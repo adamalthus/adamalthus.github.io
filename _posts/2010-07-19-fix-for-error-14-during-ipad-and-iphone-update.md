@@ -9,7 +9,7 @@ permalink: /blog/2010/07/19/fix-for-error-14-during-ipad-and-iphone-update/
 aktt_notify_twitter:
   - no
 image:
-  - 
+  -
 quote-author:
   - Unknown
 quote-url:
@@ -32,12 +32,8 @@ tags:
 ---
 [Updated with Windows 7 File location]
 
-The update of my iPad to version 3.2.1 of iOS failed last night. iTunes reported that an 'Error 14' had occured (Not very helpful) Subsequent attempts at un-docking and re-docking resulted in iTunes trying and failing to restore the device. Here's how I fixed the problem.
-  
-<!--more-->
+The update of my iPad to version 3.2.1 of iOS failed last night. iTunes reported that an 'Error 14' had occured (Not very helpful) Subsequent attempts at un-docking and re-docking resulted in iTunes trying and failing to restore the device. Here's how I fixed the problem.<!--more-->
 
-
-  
 I eventually took a scroll through the crash dump which iTunes was suggesting I should send to Apple for analysis. It appeared from the logs that the updated OS image was failing a checksum verification i.e. it had been corrupted during the download. A few minutes of searching provided the information needed to fix the problem:
 
   1. Un-dock and shutdown the iPad (Note: You will not see the 'Red' power down slider in this state)

@@ -29,11 +29,11 @@ It turns out that the field of chemical reaction dynamics provides a rather neat
 
 **Chemical Reaction Dynamics**
 
-The progress of many chemical reactions can be illustrated by a potential energy diagram such as the one shown below. 
+The progress of many chemical reactions can be illustrated by a potential energy diagram such as the one shown below.
 
 <div id="attachment_302" style="width: 370px" class="wp-caption alignleft">
-  <a href="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png"><img class="size-full wp-image-302" style="margin-top: 2px; margin-bottom: 2px; margin-left: 5px; margin-right: 5px; border: 1px solid black;" title="Chemical Reaction Dynamics" src="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png?fit=360%2C288" alt="" srcset="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png?resize=300%2C240 300w, http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png?w=360 360w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1" /></a> 
-  
+  <a href="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png"><img class="size-full wp-image-302" style="margin-top: 2px; margin-bottom: 2px; margin-left: 5px; margin-right: 5px; border: 1px solid black;" title="Chemical Reaction Dynamics" src="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png?fit=360%2C288" alt="" srcset="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png?resize=300%2C240 300w, http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2011/06/360px-Activation_energy.png?w=360 360w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1" /></a>
+
   <p class="wp-caption-text">
     http://en.wikipedia.org/wiki/Activation_energy
   </p>
