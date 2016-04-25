@@ -26,7 +26,7 @@ categories:
   - Policy
   - Strategy
 ---
-[<img class="alignleft  wp-image-994" src="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2015/01/CloudPlatformSmall.jpg?resize=208%2C178" alt="Print" srcset="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2015/01/CloudPlatformSmall.jpg?resize=300%2C257 300w, http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2015/01/CloudPlatformSmall.jpg?w=600 600w" sizes="(max-width: 208px) 100vw, 208px" data-recalc-dims="1" />](http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2015/01/CloudPlatformSmall.jpg)We are witnessing a period of unparalleled digital service innovation where new services are increasingly built by wiring together the business capabilities of multiple other firms exposed through open cloud based service interfaces.
+We are witnessing a period of unparalleled digital service innovation where new services are increasingly built by wiring together the business capabilities of multiple other firms exposed through open cloud based service interfaces.
 
 Welcome to the era of the 'Metaform' - The Platform of Everything.<!--excerpt-->
 

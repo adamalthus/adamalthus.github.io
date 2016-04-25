@@ -26,7 +26,7 @@ categories:
 tags:
   - complexity
 ---
-[<img class="alignleft size-medium wp-image-895" alt="Complex Underground Pipes" src="http://i1.wp.com/www.adamalthus.com/wp-content/uploads/2013/06/iStock_000014010888Medium-263x300.jpg?fit=263%2C300" srcset="http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2013/06/iStock_000014010888Medium.jpg?resize=263%2C300 263w, http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2013/06/iStock_000014010888Medium.jpg?resize=940%2C1071 940w, http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2013/06/iStock_000014010888Medium.jpg?resize=620%2C706 620w, http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2013/06/iStock_000014010888Medium.jpg?w=1298 1298w" sizes="(max-width: 263px) 100vw, 263px" data-recalc-dims="1" />](http://i2.wp.com/www.adamalthus.com/wp-content/uploads/2013/06/iStock_000014010888Medium.jpg)The business of Information Technology (IT) has a _complexity_ problem.
+The business of Information Technology (IT) has a _complexity_ problem.
 
 As a domain IT requires deeply specialized skills, the language of IT is arcane and business needs require multiple levels of translation and interpretation before being implemented as systems. This conceptual complexity creates a significant barrier between business and IT leadership. But there's a bigger problem: The most _complex_ issue facing IT today is technology itself.
 
