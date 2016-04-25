@@ -8,7 +8,7 @@ categories:
 ---
 #### Cross-posted from the <a href="http://innoviaventures.com/technologys-triple-threat/" target="_blank">Innovia Ventures Blog</a> by Jonathan Murray & Desiree van Welsum
 
-<img class="alignleft  wp-image-6700" src="http://i2.wp.com/innoviaventures.com/wp-content/uploads/Technologys-Triple-Threat-300x300.png?resize=242%2C242" alt="Technology's Triple Threat" data-recalc-dims="1" />What impact will the increasingly widespread use of digital tools and information have on our society and economy and how will we deal with the disruptive forces brought to life and amplified by these technologies?
+What impact will the increasingly widespread use of digital tools and information have on our society and economy and how will we deal with the disruptive forces brought to life and amplified by these technologies?
 
 Understanding the nature of this emerging transformation and identifying appropriate responses to ensure we successfully navigate the challenges is critical. Without this we risk a level of social and economic dislocation unseen since our transition to an industrial economy in the 17th and 18th centuries. But whereas the transition from an agricultural to an industrial economy took over one hundred years, the transition from industrial to a cyber-economy will likely take a few decades at most - a rate of change our political and social systems are ill-prepared to deal with.<!--excerpt-->
 
