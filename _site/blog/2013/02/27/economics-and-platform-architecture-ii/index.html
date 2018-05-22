@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Economics and Platform Architecture (Part 2) – Adamalthus – Technology ~ Policy ~ Economics</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="In this series of articles outlined the impact that the economics of scarcity has had on both software architectures and the structure of the computer industry over the last forty years. Part II of the article will discuss the transition from the economics of scarcity to the economics of abundance and how profoundly that has altered - and continues to alter - the computing landscape.
+
+" />
+    <meta property="og:description" content="In this series of articles outlined the impact that the economics of scarcity has had on both software architectures and the structure of the computer industry over the last forty years. Part II of the article will discuss the transition from the economics of scarcity to the economics of abundance and how profoundly that has altered - and continues to alter - the computing landscape.
+
+" />
+    
+    <meta name="author" content="Adamalthus" />
+
+    
+    <meta property="og:title" content="Economics and Platform Architecture (Part 2)" />
+    <meta property="twitter:title" content="Economics and Platform Architecture (Part 2)" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Adamalthus - Technology ~ Policy ~ Economics" href="/feed.xml" />
+
+    <!-- Custom Fonts -->
+    <!--
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300' rel='stylesheet' type='text/css'>
+    -->
+    <script src="https://use.typekit.net/chj2yru.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://raw.githubusercontent.com/adamalthus/jekyll-now/master/images/adamalthus_logo_xs.png" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Adamalthus</a></h1>
+            <p class="site-description">Technology ~ Policy ~ Economics</p>
+          </div>
+
+          <nav>
+            <a href="/about">About</a>
+            <a href="/why_adamalthus">Why Adamalthus</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>Economics and Platform Architecture (Part 2)</h1>
+
+  <div class="entry">
+    <p>In this series of articles outlined the impact that the <em>economics of scarcity</em> has had on both software architectures and the structure of the computer industry over the last forty years. Part II of the article will discuss the transition from the <em>economics of scarcity</em> to the <em>economics of abundance</em> and how profoundly that has altered - and continues to alter - the computing landscape.<!--excerpt--></p>
+
+<p>The introduction of the IBM PC in the early 80’s laid the foundation for a transformation in the economic model of the computing industry. IBM broke with its traditional model when it outsourced the supply of the computer processor and operating system for its Personal Computer (PC.) Little did IBM know that this single decision would transform an industry. The decision to source processors from Intel and an operating system from Microsoft and to not bind both these suppliers to exclusive supply agreements created the opportunity to build a 3rd party PC industry based IBM’s generic blueprint. The market for PCs grew and other players such as Compaq created competitive alternatives to IBM. The highly competitive dynamics of the PC industry based on the <em>open</em> hardware blueprint created by IBM had very direct consequences.</p>
+
+<p>Rampant competition within the nascent PC industry kept prices under control and yet each vendor’s hardware ran the same DOS - and subsequently Windows - operating system licensed from Microsoft. This in turn meant that every PC sold became an available ‘socket’ for a growing ecosystem of application software developers. The same application would run without modification on every model of PC. The combination of these factors lead to exponential growth in the sales of PCs and this growth lead to vast economies of scale in the production of microprocessors, disk storage and memory chips. All of this was enabled by dramatic improvements in hardware fabrication technology - largely following Gordon Moore’s law. As a result we have witnessed an approximate doubling in computational capacity, program memory and disk storage capacity every 12-18 months continuously for over forty years.</p>
+
+<p>In the early 2000’s the computing industry reached a tipping point where hardware capacities started to outstrip the demands of application software. The industry was about to transition from <em>economics of scarcity</em> to the <em>economics of abundance.</em> The impacts of this transition were - and continue to be - profound. The <em>economics of abundance</em> mean that hardware resources can be viewed as essentially unlimited. It is interesting to note that it was at this time that Intel entered the software business. It did so because it felt the need to incubate new software technologies which would utilize the full capacity of the chips it was producing. If processor capacity far outpaces the demands of Microsoft Windows, Office and a Web Browser then consumers do not need to upgrade their machines that often - and that is bad for Intel’s business.</p>
+
+<p>It is hard to understate the impact of this transition from scarce to abundant computing resources. The iPhone is a child of this transition. The economics of producing a completely integrated, highly functional, software services based smartphone could only be achieved in an era of hardware resource abundance. An environment where underlying hardware resources are - to all intents - a limitless commodity changes the calculus of software development. It is helpful to consider the Linux operating systems as an exemplar of these changes.</p>
+
+<p>During the period when the <em>economics of scarcity</em> reined the most direct analog to Linux was its precursor the UNIX operating system invented at AT&amp;T’s Bell Labs. UNIX was designed to be a general-purpose operating system which could run on many different types of underlying hardware. However, when hardware resources are scare the operating system needs to be customized to be as efficient as possible on each different hardware platform. But tuning UNIX in this way created so much divergence across the UNIX family that it could no longer be considered a single operating system. Applications written to run on one variant of UNIX were not guaranteed to run on any other variant. The UNIX ecosystem never developed or benefited from the same economies of scale witnessed by the IBM PC ecosystem.</p>
+
+<p>Linux on the other hand is an operating system which benefits from the <em>economics of abundance</em>. So much computational capacity is now available that some of this capacity can be “wasted” by layers of software designed to decouple application developers and users from differences in underlying operating system and hardware platforms. This ability to “waste” computing cycles on <em>decoupling</em> means that Linux truly has become a general purpose operating system. From a historic perspective Linux’s hardware adaptability is truly astounding. You can now run a single operating system on almost any hardware architecture available; from the smallest Raspberry Pi to the largest IBM Mainframe machine. In general an application written for one Linux distribution will run unchanged on any other. Such adaptability would have been unthinkable in the era of scarce hardware resources.</p>
+
+<p>This Linux examples still relates to an environment where there is a one-to-one relationship between a computer - hardware - and the operating system and application software running on it. Applications written for the Linux operating system still only run on Linux and will not run - without major modification - on Microsoft’s Windows or Apple’s OS X operating system. But computing resource abundance has now enabled even this problem to be solved, allowing multiple different operating system and application ecosystems to happily share a common underlying hardware platform.</p>
+
+<p>Part III of this article will examine how the ability to now share abundant hardware resources across many application workloads is transforming computing architectures and ultimately lead to the emergence of cloud computing.</p>
+
+  </div>
+
+  <div class="date">
+    Written on February 27, 2013
+  </div>
+
+  
+<div class="comments">
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+
+	    var disqus_shortname = 'adamalthus';
+
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+<a href="mailto:adamalthus@gmail.com"><i class="svg-icon email"></i></a>
+
+
+<a href="https://github.com/adamalthus"><i class="svg-icon github"></i></a>
+
+<a href="https://www.linkedin.com/in/http://linkedin.com/in/adamalthus"><i class="svg-icon linkedin"></i></a>
+
+
+<a href="https://www.twitter.com/adamalthus"><i class="svg-icon twitter"></i></a>
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-61461354-2', 'auto');
+		ga('send', 'pageview', {
+		  'page': '/blog/2013/02/27/economics-and-platform-architecture-ii/',
+		  'title': 'Economics and Platform Architecture (Part 2)'
+		});
+	</script>
+	<!-- End Google Analytics -->
+
+
+  </body>
+</html>
